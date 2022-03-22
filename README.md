@@ -1,0 +1,2 @@
+# ConflictResolverServer
+To support ConflictResolverApp
